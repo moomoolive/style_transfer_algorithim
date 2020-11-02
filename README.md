@@ -1,2 +1,3 @@
-# style_transfer_algorithim
-Tensorflow style transfer algorithm implemented on my own picture
+# Style Transfer Algorithim
+
+Tensorflow style transfer algorithm implemented on my own picture.
